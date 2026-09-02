@@ -15,8 +15,8 @@
             </p>
             <div class="d-flex justify-content-center fs-2 gap-4">
               <a class="text-gradient" href="https://github.com/HeniSapta" target="_blank"><i class='bx bxl-github'></i></a>
-              <a class="text-gradient" href="https://www.instagram.com/hnyspta_" target="_blank"><i class='bx bxl-linkedin' ></i></a>
-              <a class="text-gradient" href="https://www.instagram.com/haloalfii/" target="_blank"><i class='bx bxl-instagram' ></i></a>
+              <a class="text-gradient" href="https://www.linkedin.com/in/henisaptamawar/" target="_blank"><i class='bx bxl-linkedin' ></i></a>
+              <a class="text-gradient" href="https://www.instagram.com/hnyspta_" target="_blank"><i class='bx bxl-instagram' ></i></a>
             </div>
           </div>
         </div>

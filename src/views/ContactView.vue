@@ -26,7 +26,7 @@
           </div>
           <!-- <div class="mb-2">
             <a href="https://www.instagram.com/hnyspta_" target="_blank" class="text-body fs-5 text-decoration-none">
-              <i class='fs-4 bx bxl-instagram' ></i> @haloalfii.dev </a>
+              <i class='fs-4 bx bxl-instagram' ></i> @hnyspta_ </a>
           </div> -->
           <div class="mb-2">
             <a href="https://www.linkedin.com/in/henisaptamawar/" target="_blank" class="text-body fs-5 text-decoration-none">
