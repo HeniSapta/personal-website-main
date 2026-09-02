@@ -25,7 +25,7 @@
               <i class='fs-4 bx bxl-whatsapp' ></i> (+62) 823-8236-4867 </a>
           </div>
           <!-- <div class="mb-2">
-            <a href="https://www.instagram.com/haloalfii.dev/" target="_blank" class="text-body fs-5 text-decoration-none">
+            <a href="https://www.instagram.com/hnyspta_" target="_blank" class="text-body fs-5 text-decoration-none">
               <i class='fs-4 bx bxl-instagram' ></i> @haloalfii.dev </a>
           </div> -->
           <div class="mb-2">

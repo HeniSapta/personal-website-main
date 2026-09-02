@@ -12,7 +12,7 @@
 export default {
   data() {
     return {
-      list: ["Hello!", "¡Hola!", "Bonjour!", "Nǐ hǎo!", "Kon nichiwa!"],
+      list: ["Hello!", "¡Hola!", "Selamat Datang!", "Nǐ hǎo!", "Kon nichiwa!"],
       show: 0,
     };
   },
