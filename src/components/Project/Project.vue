@@ -1,5 +1,7 @@
 <script setup>
-
+import projectMc from '@/assets/images/project/mc.png'
+import projectDb from '@/assets/images/project/db.png'
+import projectSpcm from '@/assets/images/project/spcm.png'
 </script>
 
 <template>
@@ -20,7 +22,7 @@
               </div>
             
               </div>
-            <div class="col-md-6" style="background-image: url('/images/project/mc.png'); background-size: contain; background-repeat: no-repeat; background-position: center center; ">
+            <div class="col-md-6" :style="{ backgroundImage: `url(${projectMc})`, backgroundSize: 'contain', backgroundRepeat: 'no-repeat', backgroundPosition: 'center center' }">
             </div>
           </div>
         </div>
@@ -34,7 +36,7 @@
               <p>Menganalisis data penjualan Wonka Chocolate Factory untuk mengidentifikasi tren penjualan, performa produk, dan peluang peningkatan penjualan melalui data cleaning, visualization, dan data analysis.</p>
               <a href="https://bit.ly/CapstoneProjectDAReVou" class="text-gradient text-decoration-none" target="_blank">https://drive.google.com/file/d/19OEjui5z9JWcoGPNRoUlZaBGtC6p9tig/view?usp=sharing</a>
             </div>
-            <div class="col-md-6" style="background-image: url('/images/project/db.png'); background-size: contain; background-repeat: no-repeat; background-position: center center; ">
+            <div class="col-md-6" :style="{ backgroundImage: `url(${projectDb})`, backgroundSize: 'contain', backgroundRepeat: 'no-repeat', backgroundPosition: 'center center' }">
             </div>
           </div>
         </div>
@@ -49,7 +51,7 @@
               <p>Menganalisis faktor risiko penyakit jantung menggunakan Python melalui EDA, visualisasi data, analisis korelasi Spearman, dan regresi linear untuk menemukan pola serta hubungan antar variabel.</p>
               <a href="https://bit.ly/GoogleColabAFRPJ" class="text-gradient text-decoration-none" target="_blank">https://colab.research.google.com/drive/1-toRpViVpFZdm8yqgrmMaMQGHjLkJ5d4?usp=sharing</a>
             </div>
-            <div class="col-md-6" style="background-image: url('/images/project/spcm.png'); background-size: contain; background-repeat: no-repeat; background-position: center center; ">
+            <div class="col-md-6" :style="{ backgroundImage: `url(${projectSpcm})`, backgroundSize: 'contain', backgroundRepeat: 'no-repeat', backgroundPosition: 'center center' }">
             </div>
           </div>
         </div>
