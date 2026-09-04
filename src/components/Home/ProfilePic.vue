@@ -1,12 +1,12 @@
 <script setup>
-
+import profileImage from '@/assets/images/pp.jpg'
 </script>
 
 <template>
   <div class="profile">
     <!-- TIP: For best results, use a photo with a transparent background like the demo example below-->
     <!-- Watch a tutorial on how to do this on YouTube (link)-->
-    <img class="profile-img" src="/images/pp.JPG" alt="Heni Sapta Mawar" />
+     <img class="profile-img" :src="profileImage" alt="Heni Sapta Mawar" />
   </div>
 </template>
 
