@@ -135,6 +135,28 @@ export default {
             "Mengelola administrasi proposal dan laporan pertanggungjawaban 28 organisasi mahasiswa.",
             "Menyusun jadwal kesekretariatan, mengelola inventaris, dan mendokumentasikan rapat pimpinan."
           ]
+        },
+        {
+          year: "Okto 2024 - Nov 2025",
+          jobs: "Pengurus Inti Aspirasi dan Advokasi",
+          company: "Himpunan Mahasiswa Informatika",
+          location: "Yogyakarta",
+          description: [
+            "Menghimpun dan mengadvokasi 5 - 10 aspirasi mahasiswa setiap bulan melalui koordinasi dengan program studi.",
+            "Melakukan follow-up dan pemantauan terhadap aspirasi yang belum terselesaikan.",
+            "Mengelola penyampaian aspirasi melalui media sosial dan WhatsApp dengan melibatkan ketua kelas setiap angkatan."
+          ]
+        },
+        {
+          year: "Sep 2024",
+          jobs: "Mentor Mobile",
+          company: "Penggalian Potensi Mahasiswa (PPM) 2024",
+          location: "Yogyakarta",
+          description: [
+            "Mengoordinasikan dan memantau 14 mentor kelas selama pelaksanaan PPM.",
+            "Menyiapkan dan melaksanakan pelatihan mentor kelas sebelum kegiatan.",
+            "Memantau kondisi kelas, mentor, dan mahasiswa baru selama pelaksanaan kegiatan di lapangan."
+          ]
         }
       ]
     }

@@ -10,7 +10,7 @@ import ProfilePic from "@/components/Home/ProfilePic.vue";
         <div class="col-xxl-5">
           <!-- Header text content-->
           <div class="text-center text-xxl-start">
-            <div class="text-body mb-4"><div class="text-uppercase">Data Analyst &middot; Web Developer</div></div>
+            <div class="text-body mb-4"><div class="text-uppercase">Data Analyst &middot; Graphic Designer &middot; Project Coordinator</div></div>
             <div class="fs-3 fw-light text-muted">Hello There!👋</div>
             <h1 class="display-3 fw-bolder mb-5">I'm <span class="text-gradient d-inline">Heni Sapta Mawar</span></h1>
             <div class="d-grid gap-3 d-sm-flex justify-content-sm-center justify-content-xxl-start mb-3">
